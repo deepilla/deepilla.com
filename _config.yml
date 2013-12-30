@@ -1,0 +1,6 @@
+name: deepilla.com
+markdown: redcarpet
+pygments: true
+encoding: UTF-8
+permalink: /:categories/:title
+exclude: ["README.md"]
